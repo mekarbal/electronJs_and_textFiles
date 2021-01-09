@@ -1,0 +1,11 @@
+    .bs-example {
+        margin: 20px;
+    }
+    
+    #phonenumberbtn,
+    #callbtn {
+        width: 8%;
+        height: 8%;
+        border-radius: 50%;
+        margin: auto;
+    }
